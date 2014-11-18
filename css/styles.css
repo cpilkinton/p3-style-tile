@@ -1,3 +1,26 @@
+/*Primary Header*/
+h1 {
+	font-family: 'Fontdiner Swanky', cursive;
+	color: #286777;
+}
+
+/*Body Copy*/
+p {
+	font-family: 'Lobster', cursive;
+}
+
+/*Baseline Links*/
+a:link,
+a:visited {
+	border-bottom: double orange 2px;
+	text-transform: uppercase; 
+	text-decoration: none;
+}
+
+a:hover {
+	background: red;
+}
+
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
